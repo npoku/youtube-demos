@@ -1,4 +1,4 @@
-# PERSONAL DEVELOPMENT
+# Personal DEV(evelopment) Videos
 ## Youtube/Online Training Videos
 
 The following apps are sourced from Youtube/Online tutorials. The follow no specific order or groupings. The tutorial listing can be found below along with youtube sources  
